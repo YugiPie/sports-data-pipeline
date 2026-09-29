@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache/build artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables / secrets
+.env
+*.env
+
+# Raw collected data (don't commit large/raw pulls)
+raw/
+
+# OS/editor junk
+.DS_Store
+.vscode/settings.json
