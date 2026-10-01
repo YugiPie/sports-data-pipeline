@@ -24,4 +24,12 @@ Python, Rust, AWS (S3, RDS, Lambda), PostgreSQL, Docker
 Day 1 — repo structure set up, sources chosen, not yet collecting data.
 
 ## Progress log
+## Status
+Day 2 — API collection script working, raw data saved locally.
+
+## Progress log
 - Day 1: Initialized repo, folder structure, README, .gitignore.
+- Day 2: Built scripts/collect/fetch_api_data.py — pulls 2023-24 
+  Premier League matches from football-data.org API, validates 
+  response status, saves raw JSON to raw/api/.
+  
