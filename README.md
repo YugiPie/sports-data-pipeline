@@ -21,11 +21,7 @@ Raw data (local/S3) → Cleaned + merged (pandas) → Postgres → Analysis
 Python, Rust, AWS (S3, RDS, Lambda), PostgreSQL, Docker
 
 ## Status
-Day 1 — repo structure set up, sources chosen, not yet collecting data.
-
-## Progress log
-## Status
-Day 2 — API collection script working, raw data saved locally.
+Day 3 — API and scraping collection scripts both working, raw data saved locally.
 
 ## Progress log
 - Day 1: Initialized repo, folder structure, README, .gitignore.
