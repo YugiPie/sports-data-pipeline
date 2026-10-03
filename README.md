@@ -32,4 +32,6 @@ Day 2 — API collection script working, raw data saved locally.
 - Day 2: Built scripts/collect/fetch_api_data.py — pulls 2023-24 
   Premier League matches from football-data.org API, validates 
   response status, saves raw JSON to raw/api/.
-  
+- Day 3: Built scripts/collect/scrape_table.py — scrapes the 
+  2023-24 Premier League final standings table from Wikipedia, 
+  parses it with BeautifulSoup, saves raw JSON to raw/scrape/.
