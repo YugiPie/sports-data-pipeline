@@ -21,7 +21,7 @@ Raw data (local/S3) → Cleaned + merged (pandas) → Postgres → Analysis
 Python, Rust, AWS (S3, RDS, Lambda), PostgreSQL, Docker
 
 ## Status
-Day 3 — API and scraping collection scripts both working, raw data saved locally.
+Day 4 — all three raw collection methods complete (API, scraping, bulk CSV).
 
 ## Progress log
 - Day 1: Initialized repo, folder structure, README, .gitignore.
@@ -31,3 +31,8 @@ Day 3 — API and scraping collection scripts both working, raw data saved local
 - Day 3: Built scripts/collect/scrape_table.py — scrapes the 
   2023-24 Premier League final standings table from Wikipedia, 
   parses it with BeautifulSoup, saves raw JSON to raw/scrape/.
+- Day 4: Built scripts/collect/load_bulk_csv.py — inspects FBref-style 
+  match log CSV (760 rows, team-per-match format) for 2023-24 Premier 
+  League season. Confirmed 20 teams, 38 matches each, only Notes 
+  column has missing data.
+  
