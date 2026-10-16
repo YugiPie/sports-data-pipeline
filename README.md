@@ -21,7 +21,7 @@ Raw data (local/S3) → Cleaned + merged (pandas) → Postgres → Analysis
 Python and pandas, requests, BeautifulSoup
 
 ## Status
-Day 5 — unified schema defined (matches + standings tables). Next: Week 2 cleaning.
+Day 6: team name normalization complete (20/20 teams mapped across all three sources). Next: Day 7, merging matches into one row per match.
 
 ## Progress log
 - Day 1: Initialized repo, folder structure, README, .gitignore.
@@ -36,3 +36,4 @@ Day 5 — unified schema defined (matches + standings tables). Next: Week 2 clea
   League season. Confirmed 20 teams, 38 matches each, only Notes 
   column has missing data.
 - Day 5: Designed unified schema in docs/schema.md — matches table (one row per match) and standings table (one row per team per season).
+- Day 6: Built scripts/clean/normalize_teams.py, mapping every team spelling from the API, scraped standings, and bulk CSV to one canonical name. Coverage check confirms 20/20 teams.
