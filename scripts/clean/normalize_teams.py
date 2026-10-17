@@ -25,6 +25,7 @@ TEAM_MAP = {
     "Brighton & Hove Albion": "Brighton & Hove Albion",
     "Brighton & Hove Albion FC": "Brighton & Hove Albion",
     "BrightonandHoveAlbion": "Brighton & Hove Albion",
+    "Brighton": "Brighton & Hove Albion",
 
     # Burnley
     "Burnley": "Burnley",
@@ -68,37 +69,44 @@ TEAM_MAP = {
     "Manchester United": "Manchester United",
     "Manchester United FC": "Manchester United",
     "ManchesterUnited": "Manchester United",
+    "Manchester Utd": "Manchester United",
 
     # Newcastle United
     "Newcastle United": "Newcastle United",
     "Newcastle United FC": "Newcastle United",
     "NewcastleUnited": "Newcastle United",
+    "Newcastle Utd": "Newcastle United",
 
     # Nottingham Forest
     "Nottingham Forest": "Nottingham Forest",
     "Nottingham Forest FC": "Nottingham Forest",
     "NottinghamForest": "Nottingham Forest",
+    "Nott'ham Forest": "Nottingham Forest",
 
     # Sheffield United
     "Sheffield United": "Sheffield United",
     "Sheffield United FC": "Sheffield United",
     "Sheffield United(R)": "Sheffield United",
     "SheffieldUnited": "Sheffield United",
+    "Sheffield Utd": "Sheffield United",
 
     # Tottenham Hotspur
     "Tottenham Hotspur": "Tottenham Hotspur",
     "Tottenham Hotspur FC": "Tottenham Hotspur",
     "TottenhamHotspur": "Tottenham Hotspur",
+    "Tottenham": "Tottenham Hotspur",
 
     # West Ham United
     "West Ham United": "West Ham United",
     "West Ham United FC": "West Ham United",
     "WestHamUnited": "West Ham United",
+    "West Ham": "West Ham United",
 
     # Wolverhampton Wanderers
     "Wolverhampton Wanderers": "Wolverhampton Wanderers",
     "Wolverhampton Wanderers FC": "Wolverhampton Wanderers",
     "WolverhamptonWanderers": "Wolverhampton Wanderers",
+    "Wolves": "Wolverhampton Wanderers",
 }
 
 

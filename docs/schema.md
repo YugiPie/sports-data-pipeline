@@ -32,3 +32,6 @@
 | goals_against | int | GA | |
 | goal_diff | int | GD | strip the + / − sign |
 | points | int | Pts | strip footnote markers like [c] |
+
+
+Note: Current matches table is home-side only (one row per match, home team stats). Away-side stats (xG, possession, shots) are deferred until a home/away join is built.

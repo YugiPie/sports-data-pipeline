@@ -1,0 +1,381 @@
+match_date,home_team,away_team,home_goals,away_goals,home_result,Attendance,Referee
+2023-08-19,Manchester City,Newcastle United,1,0,W,53419.0,Robert Jones
+2023-09-02,Manchester City,Fulham,5,1,W,52899.0,Michael Oliver
+2023-09-23,Manchester City,Nottingham Forest,2,0,W,53413.0,Anthony Taylor
+2023-10-21,Manchester City,Brighton & Hove Albion,2,1,W,53466.0,Robert Jones
+2023-11-04,Manchester City,AFC Bournemouth,6,1,W,53358.0,Craig Pawson
+2023-11-25,Manchester City,Liverpool,1,1,D,53289.0,Chris Kavanagh
+2023-12-03,Manchester City,Tottenham Hotspur,3,3,D,53473.0,Simon Hooper
+2023-12-16,Manchester City,Crystal Palace,2,2,D,53248.0,Paul Tierney
+2023-12-30,Manchester City,Sheffield United,2,0,W,53108.0,David Coote
+2024-01-31,Manchester City,Burnley,3,1,W,52143.0,Samuel Barrott
+2024-02-10,Manchester City,Everton,2,0,W,52187.0,John Brooks
+2024-02-17,Manchester City,Chelsea,1,1,D,52178.0,Andy Madley
+2024-02-20,Manchester City,Brentford,1,0,W,52247.0,Darren England
+2024-03-03,Manchester City,Manchester United,3,1,W,53514.0,Andy Madley
+2024-03-31,Manchester City,Arsenal,0,0,D,52178.0,Anthony Taylor
+2024-04-03,Manchester City,Aston Villa,4,1,W,53422.0,Darren England
+2024-04-13,Manchester City,Luton Town,5,1,W,52149.0,John Brooks
+2024-05-04,Manchester City,Wolverhampton Wanderers,5,1,W,52439.0,Craig Pawson
+2024-05-19,Manchester City,West Ham United,3,1,W,55097.0,John Brooks
+2023-08-12,Arsenal,Nottingham Forest,2,1,W,59984.0,Michael Oliver
+2023-08-26,Arsenal,Fulham,2,2,D,59961.0,Paul Tierney
+2023-09-03,Arsenal,Manchester United,3,1,W,60192.0,Anthony Taylor
+2023-09-24,Arsenal,Tottenham Hotspur,2,2,D,60156.0,Robert Jones
+2023-10-08,Arsenal,Manchester City,1,0,W,60233.0,Michael Oliver
+2023-10-28,Arsenal,Sheffield United,5,0,W,60153.0,Tim Robinson
+2023-11-11,Arsenal,Burnley,3,1,W,60232.0,Michael Oliver
+2023-12-02,Arsenal,Wolverhampton Wanderers,2,1,W,60262.0,Peter Bankes
+2023-12-17,Arsenal,Brighton & Hove Albion,2,0,W,60257.0,Tim Robinson
+2023-12-28,Arsenal,West Ham United,0,2,L,60261.0,Michael Oliver
+2024-01-20,Arsenal,Crystal Palace,5,0,W,60284.0,Paul Tierney
+2024-02-04,Arsenal,Liverpool,3,1,W,60374.0,Anthony Taylor
+2024-02-24,Arsenal,Newcastle United,4,1,W,60298.0,Paul Tierney
+2024-03-09,Arsenal,Brentford,2,1,W,60331.0,Robert Jones
+2024-04-03,Arsenal,Luton Town,2,0,W,60262.0,Craig Pawson
+2024-04-14,Arsenal,Aston Villa,0,2,L,60350.0,David Coote
+2024-04-23,Arsenal,Chelsea,5,0,W,60238.0,Simon Hooper
+2024-05-04,Arsenal,AFC Bournemouth,3,0,W,60348.0,David Coote
+2024-05-19,Arsenal,Everton,2,1,W,60312.0,Michael Oliver
+2023-08-19,Liverpool,AFC Bournemouth,3,1,W,53145.0,Thomas Bramall
+2023-09-03,Liverpool,Aston Villa,3,0,W,50109.0,Simon Hooper
+2023-09-24,Liverpool,West Ham United,3,1,W,50136.0,Chris Kavanagh
+2023-10-21,Liverpool,Everton,2,0,W,50201.0,Craig Pawson
+2023-10-29,Liverpool,Nottingham Forest,3,0,W,50143.0,Chris Kavanagh
+2023-11-12,Liverpool,Brentford,3,0,W,50151.0,Paul Tierney
+2023-12-03,Liverpool,Fulham,4,3,W,50124.0,Stuart Attwell
+2023-12-17,Liverpool,Manchester United,0,0,D,57158.0,Michael Oliver
+2023-12-23,Liverpool,Arsenal,1,1,D,57548.0,Chris Kavanagh
+2024-01-01,Liverpool,Newcastle United,4,2,W,57471.0,Anthony Taylor
+2024-01-31,Liverpool,Chelsea,4,1,W,57524.0,Paul Tierney
+2024-02-10,Liverpool,Burnley,3,1,W,59896.0,Tim Robinson
+2024-02-21,Liverpool,Luton Town,4,1,W,59713.0,Andy Madley
+2024-03-10,Liverpool,Manchester City,1,1,D,59947.0,Michael Oliver
+2024-03-31,Liverpool,Brighton & Hove Albion,2,1,W,60061.0,David Coote
+2024-04-04,Liverpool,Sheffield United,3,1,W,60055.0,Stuart Attwell
+2024-04-14,Liverpool,Crystal Palace,0,1,L,60090.0,Chris Kavanagh
+2024-05-05,Liverpool,Tottenham Hotspur,4,2,W,60075.0,Paul Tierney
+2024-05-19,Liverpool,Wolverhampton Wanderers,2,0,W,60059.0,Chris Kavanagh
+2023-08-20,Aston Villa,Everton,4,0,W,41694.0,Anthony Taylor
+2023-09-16,Aston Villa,Crystal Palace,3,1,W,40809.0,Darren England
+2023-09-30,Aston Villa,Brighton & Hove Albion,6,1,W,40636.0,Andy Madley
+2023-10-22,Aston Villa,West Ham United,4,1,W,41734.0,David Coote
+2023-10-29,Aston Villa,Luton Town,3,1,W,41785.0,John Brooks
+2023-11-12,Aston Villa,Fulham,3,1,W,41608.0,Simon Hooper
+2023-12-06,Aston Villa,Manchester City,1,0,W,41421.0,John Brooks
+2023-12-09,Aston Villa,Arsenal,1,0,W,42000.0,Jarred Gillett
+2023-12-22,Aston Villa,Sheffield United,1,1,D,41651.0,Anthony Taylor
+2023-12-30,Aston Villa,Burnley,3,2,W,41613.0,Stuart Attwell
+2024-01-30,Aston Villa,Newcastle United,1,3,L,42191.0,John Brooks
+2024-02-11,Aston Villa,Manchester United,1,2,L,42185.0,Robert Jones
+2024-02-24,Aston Villa,Nottingham Forest,4,2,W,42131.0,Samuel Barrott
+2024-03-10,Aston Villa,Tottenham Hotspur,0,4,L,42310.0,Chris Kavanagh
+2024-03-30,Aston Villa,Wolverhampton Wanderers,2,0,W,42640.0,Paul Tierney
+2024-04-06,Aston Villa,Brentford,3,3,D,42118.0,Michael Salisbury
+2024-04-21,Aston Villa,AFC Bournemouth,3,1,W,42189.0,Tim Robinson
+2024-04-27,Aston Villa,Chelsea,2,2,D,42354.0,Craig Pawson
+2024-05-13,Aston Villa,Liverpool,3,3,D,42241.0,Simon Hooper
+2023-08-19,Tottenham Hotspur,Manchester United,2,0,W,61910.0,Michael Oliver
+2023-09-16,Tottenham Hotspur,Sheffield United,2,1,W,61706.0,Peter Bankes
+2023-09-30,Tottenham Hotspur,Liverpool,2,1,W,62001.0,Simon Hooper
+2023-10-23,Tottenham Hotspur,Fulham,2,0,W,61286.0,Anthony Taylor
+2023-11-06,Tottenham Hotspur,Chelsea,1,4,L,61726.0,Michael Oliver
+2023-11-26,Tottenham Hotspur,Aston Villa,1,2,L,61679.0,Robert Jones
+2023-12-07,Tottenham Hotspur,West Ham United,1,2,L,61171.0,Michael Salisbury
+2023-12-10,Tottenham Hotspur,Newcastle United,4,1,W,61171.0,Chris Kavanagh
+2023-12-23,Tottenham Hotspur,Everton,2,1,W,61808.0,Stuart Attwell
+2023-12-31,Tottenham Hotspur,AFC Bournemouth,3,1,W,61780.0,Simon Hooper
+2024-01-31,Tottenham Hotspur,Brentford,3,2,W,61210.0,David Coote
+2024-02-10,Tottenham Hotspur,Brighton & Hove Albion,2,1,W,61445.0,Samuel Barrott
+2024-02-17,Tottenham Hotspur,Wolverhampton Wanderers,1,2,L,61532.0,Anthony Taylor
+2024-03-02,Tottenham Hotspur,Crystal Palace,3,1,W,61339.0,John Brooks
+2024-03-30,Tottenham Hotspur,Luton Town,2,1,W,61534.0,Jarred Gillett
+2024-04-07,Tottenham Hotspur,Nottingham Forest,3,1,W,61098.0,Simon Hooper
+2024-04-28,Tottenham Hotspur,Arsenal,2,3,L,61554.0,Michael Oliver
+2024-05-11,Tottenham Hotspur,Burnley,2,1,W,61148.0,Jarred Gillett
+2024-05-14,Tottenham Hotspur,Manchester City,0,2,L,61065.0,Chris Kavanagh
+2023-08-13,Chelsea,Liverpool,1,1,D,40096.0,Anthony Taylor
+2023-08-25,Chelsea,Luton Town,3,0,W,39893.0,Robert Jones
+2023-09-02,Chelsea,Nottingham Forest,0,1,L,39820.0,Tim Robinson
+2023-09-24,Chelsea,Aston Villa,0,1,L,39700.0,Jarred Gillett
+2023-10-21,Chelsea,Arsenal,2,2,D,39723.0,Chris Kavanagh
+2023-10-28,Chelsea,Brentford,0,2,L,39575.0,Simon Hooper
+2023-11-12,Chelsea,Manchester City,4,4,D,39532.0,Anthony Taylor
+2023-12-03,Chelsea,Brighton & Hove Albion,3,2,W,39647.0,Craig Pawson
+2023-12-16,Chelsea,Sheffield United,2,0,W,39599.0,Andy Madley
+2023-12-27,Chelsea,Crystal Palace,2,1,W,39618.0,Michael Salisbury
+2024-01-13,Chelsea,Fulham,1,0,W,39643.0,Anthony Taylor
+2024-02-04,Chelsea,Wolverhampton Wanderers,2,4,L,39628.0,Tim Robinson
+2024-03-11,Chelsea,Newcastle United,3,2,W,37753.0,John Brooks
+2024-03-30,Chelsea,Burnley,2,2,D,39535.0,Darren England
+2024-04-04,Chelsea,Manchester United,4,3,W,39694.0,Jarred Gillett
+2024-04-15,Chelsea,Everton,6,0,W,39392.0,Paul Tierney
+2024-05-02,Chelsea,Tottenham Hotspur,2,0,W,39086.0,Robert Jones
+2024-05-05,Chelsea,West Ham United,5,0,W,39295.0,Andy Madley
+2024-05-19,Chelsea,AFC Bournemouth,2,1,W,39724.0,Anthony Taylor
+2023-08-12,Newcastle United,Aston Villa,5,1,W,52207.0,Andy Madley
+2023-08-27,Newcastle United,Liverpool,1,2,L,52214.0,John Brooks
+2023-09-16,Newcastle United,Brentford,1,0,W,51670.0,Craig Pawson
+2023-09-30,Newcastle United,Burnley,2,0,W,51687.0,Thomas Bramall
+2023-10-21,Newcastle United,Crystal Palace,4,0,W,52189.0,Tim Robinson
+2023-11-04,Newcastle United,Arsenal,1,0,W,52194.0,Stuart Attwell
+2023-11-25,Newcastle United,Chelsea,4,1,W,52227.0,Simon Hooper
+2023-12-02,Newcastle United,Manchester United,1,0,W,52214.0,Robert Jones
+2023-12-16,Newcastle United,Fulham,3,0,W,52055.0,Samuel Barrott
+2023-12-26,Newcastle United,Nottingham Forest,1,3,L,52207.0,Chris Kavanagh
+2024-01-13,Newcastle United,Manchester City,2,3,L,52190.0,Chris Kavanagh
+2024-02-03,Newcastle United,Luton Town,4,4,D,52211.0,Thomas Bramall
+2024-02-17,Newcastle United,AFC Bournemouth,2,2,D,52224.0,Michael Salisbury
+2024-03-02,Newcastle United,Wolverhampton Wanderers,3,0,W,52206.0,Tim Robinson
+2024-03-30,Newcastle United,West Ham United,4,3,W,52199.0,Robert Jones
+2024-04-02,Newcastle United,Everton,1,1,D,52135.0,Tony Harrington
+2024-04-13,Newcastle United,Tottenham Hotspur,4,0,W,52147.0,Tim Robinson
+2024-04-27,Newcastle United,Sheffield United,5,1,W,52196.0,Tony Harrington
+2024-05-11,Newcastle United,Brighton & Hove Albion,1,1,D,51997.0,Darren England
+2023-08-14,Manchester United,Wolverhampton Wanderers,1,0,W,73358.0,Simon Hooper
+2023-08-26,Manchester United,Nottingham Forest,3,2,W,73595.0,Stuart Attwell
+2023-09-16,Manchester United,Brighton & Hove Albion,1,3,L,73592.0,Jarred Gillett
+2023-09-30,Manchester United,Crystal Palace,0,1,L,73428.0,Chris Kavanagh
+2023-10-07,Manchester United,Brentford,2,1,W,73453.0,Andy Madley
+2023-10-29,Manchester United,Manchester City,0,3,L,73502.0,Paul Tierney
+2023-11-11,Manchester United,Luton Town,1,0,W,73599.0,Graham Scott
+2023-12-06,Manchester United,Chelsea,2,1,W,73607.0,Chris Kavanagh
+2023-12-09,Manchester United,AFC Bournemouth,0,3,L,73427.0,Peter Bankes
+2023-12-26,Manchester United,Aston Villa,3,2,W,73574.0,Craig Pawson
+2024-01-14,Manchester United,Tottenham Hotspur,2,2,D,73489.0,John Brooks
+2024-02-04,Manchester United,West Ham United,3,0,W,73612.0,Andy Madley
+2024-02-24,Manchester United,Fulham,1,2,L,73487.0,Michael Oliver
+2024-03-09,Manchester United,Everton,2,0,W,73601.0,Simon Hooper
+2024-04-07,Manchester United,Liverpool,2,2,D,73501.0,Anthony Taylor
+2024-04-24,Manchester United,Sheffield United,4,2,W,73549.0,Michael Salisbury
+2024-04-27,Manchester United,Burnley,1,1,D,73571.0,John Brooks
+2024-05-12,Manchester United,Arsenal,0,1,L,73600.0,Paul Tierney
+2024-05-15,Manchester United,Newcastle United,3,2,W,73582.0,Robert Jones
+2023-08-20,West Ham United,Chelsea,3,1,W,62451.0,John Brooks
+2023-09-16,West Ham United,Manchester City,1,3,L,62475.0,Andy Madley
+2023-09-30,West Ham United,Sheffield United,2,0,W,62459.0,Graham Scott
+2023-10-08,West Ham United,Newcastle United,2,2,D,62473.0,Peter Bankes
+2023-10-29,West Ham United,Everton,0,1,L,62469.0,Stuart Attwell
+2023-11-12,West Ham United,Nottingham Forest,3,2,W,62470.0,Michael Salisbury
+2023-12-03,West Ham United,Crystal Palace,1,1,D,62414.0,Michael Oliver
+2023-12-17,West Ham United,Wolverhampton Wanderers,3,0,W,62455.0,Chris Kavanagh
+2023-12-23,West Ham United,Manchester United,2,0,W,64472.0,Simon Hooper
+2024-01-02,West Ham United,Brighton & Hove Albion,0,0,D,62462.0,Samuel Barrott
+2024-02-01,West Ham United,AFC Bournemouth,1,1,D,62478.0,Tim Robinson
+2024-02-11,West Ham United,Arsenal,0,6,L,62475.0,Craig Pawson
+2024-02-26,West Ham United,Brentford,4,2,W,62450.0,Simon Hooper
+2024-03-10,West Ham United,Burnley,2,2,D,62441.0,Darren England
+2024-03-17,West Ham United,Aston Villa,1,1,D,62461.0,Jarred Gillett
+2024-04-02,West Ham United,Tottenham Hotspur,1,1,D,62469.0,John Brooks
+2024-04-14,West Ham United,Fulham,0,2,L,62459.0,Stuart Attwell
+2024-04-27,West Ham United,Liverpool,2,2,D,62474.0,Anthony Taylor
+2024-05-11,West Ham United,Luton Town,3,1,W,62475.0,Michael Oliver
+2023-08-21,Crystal Palace,Arsenal,0,1,L,24189.0,David Coote
+2023-09-03,Crystal Palace,Wolverhampton Wanderers,3,2,W,24741.0,Robert Jones
+2023-09-23,Crystal Palace,Fulham,0,0,D,25072.0,Paul Tierney
+2023-10-07,Crystal Palace,Nottingham Forest,0,0,D,25017.0,Craig Pawson
+2023-10-27,Crystal Palace,Tottenham Hotspur,1,2,L,25074.0,Andy Madley
+2023-11-11,Crystal Palace,Everton,2,3,L,25103.0,Samuel Barrott
+2023-12-06,Crystal Palace,AFC Bournemouth,0,2,L,25078.0,Craig Pawson
+2023-12-09,Crystal Palace,Liverpool,1,2,L,25103.0,Andy Madley
+2023-12-21,Crystal Palace,Brighton & Hove Albion,1,1,D,24171.0,John Brooks
+2023-12-30,Crystal Palace,Brentford,3,1,W,25472.0,Robert Jones
+2024-01-30,Crystal Palace,Sheffield United,3,2,W,24781.0,Tony Harrington
+2024-02-12,Crystal Palace,Chelsea,1,3,L,25110.0,Michael Oliver
+2024-02-24,Crystal Palace,Burnley,3,0,W,24042.0,Lewis Smith
+2024-03-09,Crystal Palace,Luton Town,1,1,D,25103.0,Sunny Singh
+2024-04-06,Crystal Palace,Manchester City,2,4,L,25132.0,Paul Tierney
+2024-04-21,Crystal Palace,West Ham United,5,2,W,25145.0,Graham Scott
+2024-04-24,Crystal Palace,Newcastle United,2,0,W,25002.0,Thomas Bramall
+2024-05-06,Crystal Palace,Manchester United,4,0,W,25190.0,Jarred Gillett
+2024-05-19,Crystal Palace,Aston Villa,5,0,W,25191.0,Darren Bond
+2023-08-12,Brighton & Hove Albion,Luton Town,4,1,W,31872.0,David Coote
+2023-08-26,Brighton & Hove Albion,West Ham United,1,3,L,31508.0,Anthony Taylor
+2023-09-02,Brighton & Hove Albion,Newcastle United,3,1,W,31620.0,Stuart Attwell
+2023-09-24,Brighton & Hove Albion,AFC Bournemouth,3,1,W,31617.0,John Brooks
+2023-10-08,Brighton & Hove Albion,Liverpool,2,2,D,31752.0,Anthony Taylor
+2023-10-29,Brighton & Hove Albion,Fulham,1,1,D,31550.0,Michael Salisbury
+2023-11-12,Brighton & Hove Albion,Sheffield United,1,1,D,31367.0,John Brooks
+2023-12-06,Brighton & Hove Albion,Brentford,2,1,W,31571.0,Peter Bankes
+2023-12-09,Brighton & Hove Albion,Burnley,1,1,D,31511.0,Simon Hooper
+2023-12-28,Brighton & Hove Albion,Tottenham Hotspur,4,2,W,31675.0,Jarred Gillett
+2024-01-22,Brighton & Hove Albion,Wolverhampton Wanderers,0,0,D,41505.0,Craig Pawson
+2024-02-03,Brighton & Hove Albion,Crystal Palace,4,1,W,31345.0,Simon Hooper
+2024-02-24,Brighton & Hove Albion,Everton,1,1,D,41646.0,Tony Harrington
+2024-03-10,Brighton & Hove Albion,Nottingham Forest,1,0,W,31505.0,Michael Salisbury
+2024-04-06,Brighton & Hove Albion,Arsenal,0,3,L,31677.0,John Brooks
+2024-04-25,Brighton & Hove Albion,Manchester City,0,4,L,31596.0,Jarred Gillett
+2024-05-05,Brighton & Hove Albion,Aston Villa,1,0,W,31596.0,Robert Jones
+2024-05-15,Brighton & Hove Albion,Chelsea,1,2,L,31555.0,Michael Salisbury
+2024-05-19,Brighton & Hove Albion,Manchester United,0,2,L,31662.0,Craig Pawson
+2023-08-12,AFC Bournemouth,West Ham United,1,1,D,11245.0,Peter Bankes
+2023-08-26,AFC Bournemouth,Tottenham Hotspur,0,2,L,10567.0,Tim Robinson
+2023-09-17,AFC Bournemouth,Chelsea,0,0,D,10421.0,David Coote
+2023-09-30,AFC Bournemouth,Arsenal,0,4,L,11193.0,Michael Salisbury
+2023-10-21,AFC Bournemouth,Wolverhampton Wanderers,1,2,L,11175.0,Paul Tierney
+2023-10-28,AFC Bournemouth,Burnley,2,1,W,11152.0,Samuel Barrott
+2023-11-11,AFC Bournemouth,Newcastle United,2,0,W,11201.0,Chris Kavanagh
+2023-12-03,AFC Bournemouth,Aston Villa,2,2,D,11191.0,Thomas Bramall
+2023-12-26,AFC Bournemouth,Fulham,3,0,W,11099.0,Tim Robinson
+2024-01-21,AFC Bournemouth,Liverpool,0,4,L,11228.0,Andy Madley
+2024-02-04,AFC Bournemouth,Nottingham Forest,1,1,D,11200.0,Rebecca Welch
+2024-02-24,AFC Bournemouth,Manchester City,0,1,L,11184.0,Jarred Gillett
+2024-03-09,AFC Bournemouth,Sheffield United,2,2,D,11074.0,Anthony Taylor
+2024-03-13,AFC Bournemouth,Luton Town,4,3,W,11198.0,Samuel Allison
+2024-03-30,AFC Bournemouth,Everton,2,1,W,11207.0,Samuel Barrott
+2024-04-02,AFC Bournemouth,Crystal Palace,1,0,W,11058.0,Graham Scott
+2024-04-13,AFC Bournemouth,Manchester United,2,2,D,11229.0,Tony Harrington
+2024-04-28,AFC Bournemouth,Brighton & Hove Albion,3,0,W,11188.0,Paul Tierney
+2024-05-11,AFC Bournemouth,Brentford,1,2,L,11154.0,Matt Donohue
+2023-08-19,Fulham,Brentford,0,3,L,24236.0,Darren Bond
+2023-09-16,Fulham,Luton Town,1,0,W,24467.0,Michael Salisbury
+2023-10-02,Fulham,Chelsea,0,2,L,24445.0,Tim Robinson
+2023-10-07,Fulham,Sheffield United,3,1,W,24361.0,Samuel Barrott
+2023-11-04,Fulham,Manchester United,0,1,L,24415.0,John Brooks
+2023-11-27,Fulham,Wolverhampton Wanderers,3,2,W,24366.0,Michael Salisbury
+2023-12-06,Fulham,Nottingham Forest,5,0,W,24105.0,Joshua Smith
+2023-12-10,Fulham,West Ham United,5,0,W,23988.0,Paul Tierney
+2023-12-23,Fulham,Burnley,0,2,L,23598.0,Rebecca Welch
+2023-12-31,Fulham,Arsenal,2,1,W,24444.0,Joshua Smith
+2024-01-30,Fulham,Everton,0,0,D,24376.0,Thomas Bramall
+2024-02-10,Fulham,AFC Bournemouth,3,1,W,24271.0,Darren England
+2024-02-17,Fulham,Aston Villa,1,2,L,24401.0,Lewis Smith
+2024-03-02,Fulham,Brighton & Hove Albion,3,0,W,24460.0,Simon Hooper
+2024-03-16,Fulham,Tottenham Hotspur,3,0,W,24410.0,Robert Jones
+2024-04-06,Fulham,Newcastle United,0,1,L,24418.0,Samuel Allison
+2024-04-21,Fulham,Liverpool,1,3,L,24414.0,Craig Pawson
+2024-04-27,Fulham,Crystal Palace,1,1,D,24142.0,Stuart Attwell
+2024-05-11,Fulham,Manchester City,0,4,L,24418.0,Anthony Taylor
+2023-08-19,Wolverhampton Wanderers,Brighton & Hove Albion,1,4,L,31317.0,Andy Madley
+2023-09-16,Wolverhampton Wanderers,Liverpool,1,3,L,31257.0,Michael Oliver
+2023-09-30,Wolverhampton Wanderers,Manchester City,2,1,W,31415.0,Craig Pawson
+2023-10-08,Wolverhampton Wanderers,Aston Villa,1,1,D,31425.0,Robert Jones
+2023-10-28,Wolverhampton Wanderers,Newcastle United,2,2,D,31584.0,Anthony Taylor
+2023-11-11,Wolverhampton Wanderers,Tottenham Hotspur,2,1,W,31642.0,Tim Robinson
+2023-12-05,Wolverhampton Wanderers,Burnley,1,0,W,30439.0,Jarred Gillett
+2023-12-09,Wolverhampton Wanderers,Nottingham Forest,1,1,D,31543.0,Samuel Barrott
+2023-12-24,Wolverhampton Wanderers,Chelsea,2,1,W,31641.0,David Coote
+2023-12-30,Wolverhampton Wanderers,Everton,3,0,W,31639.0,Thomas Bramall
+2024-02-01,Wolverhampton Wanderers,Manchester United,3,4,L,31641.0,Jarred Gillett
+2024-02-10,Wolverhampton Wanderers,Brentford,0,2,L,30731.0,Simon Hooper
+2024-02-25,Wolverhampton Wanderers,Sheffield United,1,0,W,30789.0,Darren Bond
+2024-03-09,Wolverhampton Wanderers,Fulham,2,1,W,30860.0,Tony Harrington
+2024-04-06,Wolverhampton Wanderers,West Ham United,1,2,L,31504.0,Tony Harrington
+2024-04-20,Wolverhampton Wanderers,Arsenal,0,2,L,31621.0,Paul Tierney
+2024-04-24,Wolverhampton Wanderers,AFC Bournemouth,0,1,L,25541.0,Stuart Attwell
+2024-04-27,Wolverhampton Wanderers,Luton Town,2,1,W,31531.0,David Coote
+2024-05-11,Wolverhampton Wanderers,Crystal Palace,1,3,L,31424.0,Thomas Bramall
+2023-08-12,Everton,Fulham,0,1,L,39940.0,Stuart Attwell
+2023-08-26,Everton,Wolverhampton Wanderers,0,1,L,38851.0,Craig Pawson
+2023-09-17,Everton,Arsenal,0,1,L,39217.0,Simon Hooper
+2023-09-30,Everton,Luton Town,1,2,L,39289.0,Anthony Taylor
+2023-10-07,Everton,AFC Bournemouth,3,0,W,38815.0,David Coote
+2023-11-04,Everton,Brighton & Hove Albion,1,1,D,38683.0,Tim Robinson
+2023-11-26,Everton,Manchester United,0,3,L,39257.0,John Brooks
+2023-12-07,Everton,Newcastle United,3,0,W,38198.0,Tim Robinson
+2023-12-10,Everton,Chelsea,2,0,W,39280.0,Michael Oliver
+2023-12-27,Everton,Manchester City,1,3,L,39327.0,John Brooks
+2024-01-14,Everton,Aston Villa,0,0,D,39284.0,David Coote
+2024-02-03,Everton,Tottenham Hotspur,2,2,D,39321.0,Michael Oliver
+2024-02-19,Everton,Crystal Palace,1,1,D,38164.0,Paul Tierney
+2024-03-02,Everton,West Ham United,1,3,L,39262.0,Craig Pawson
+2024-04-06,Everton,Burnley,1,0,W,39125.0,Michael Oliver
+2024-04-21,Everton,Nottingham Forest,2,0,W,39239.0,Anthony Taylor
+2024-04-24,Everton,Liverpool,2,0,W,38222.0,Andy Madley
+2024-04-27,Everton,Brentford,1,0,W,39098.0,Darren England
+2024-05-11,Everton,Sheffield United,1,0,W,39221.0,Stuart Attwell
+2023-08-13,Brentford,Tottenham Hotspur,2,2,D,17066.0,Robert Jones
+2023-08-26,Brentford,Crystal Palace,1,1,D,16997.0,Peter Bankes
+2023-09-02,Brentford,AFC Bournemouth,2,2,D,16973.0,Robert Madley
+2023-09-23,Brentford,Everton,1,3,L,16981.0,Michael Oliver
+2023-10-21,Brentford,Burnley,3,0,W,17029.0,Joshua Smith
+2023-11-04,Brentford,West Ham United,3,2,W,17103.0,Thomas Bramall
+2023-11-25,Brentford,Arsenal,0,1,L,17201.0,Tim Robinson
+2023-12-02,Brentford,Luton Town,3,1,W,17075.0,Anthony Taylor
+2023-12-17,Brentford,Aston Villa,1,2,L,17034.0,David Coote
+2023-12-27,Brentford,Wolverhampton Wanderers,1,4,L,17109.0,Andy Madley
+2024-01-20,Brentford,Nottingham Forest,3,2,W,17077.0,Darren England
+2024-02-05,Brentford,Manchester City,1,3,L,17096.0,Jarred Gillett
+2024-02-17,Brentford,Liverpool,1,4,L,17193.0,Michael Oliver
+2024-03-02,Brentford,Chelsea,2,2,D,17140.0,Jarred Gillett
+2024-03-30,Brentford,Manchester United,1,1,D,17138.0,Simon Hooper
+2024-04-03,Brentford,Brighton & Hove Albion,0,0,D,17024.0,Andy Madley
+2024-04-13,Brentford,Sheffield United,2,0,W,17115.0,Samuel Barrott
+2024-05-04,Brentford,Fulham,0,0,D,17090.0,Graham Scott
+2024-05-19,Brentford,Newcastle United,2,4,L,17124.0,Simon Hooper
+2023-08-18,Nottingham Forest,Sheffield United,2,1,W,29432.0,Peter Bankes
+2023-09-18,Nottingham Forest,Burnley,1,1,D,28958.0,Robert Jones
+2023-10-01,Nottingham Forest,Brentford,1,1,D,29004.0,Paul Tierney
+2023-10-21,Nottingham Forest,Luton Town,2,2,D,29361.0,Samuel Barrott
+2023-11-05,Nottingham Forest,Aston Villa,2,0,W,29313.0,Jarred Gillett
+2023-11-25,Nottingham Forest,Brighton & Hove Albion,2,3,L,29404.0,Anthony Taylor
+2023-12-02,Nottingham Forest,Everton,0,1,L,29404.0,Paul Tierney
+2023-12-15,Nottingham Forest,Tottenham Hotspur,0,2,L,29296.0,Jarred Gillett
+2023-12-23,Nottingham Forest,AFC Bournemouth,2,3,L,29188.0,Robert Jones
+2023-12-30,Nottingham Forest,Manchester United,2,1,W,29529.0,Tim Robinson
+2024-01-30,Nottingham Forest,Arsenal,1,2,L,29387.0,Simon Hooper
+2024-02-10,Nottingham Forest,Newcastle United,2,3,L,29451.0,Anthony Taylor
+2024-02-17,Nottingham Forest,West Ham United,2,0,W,29490.0,Thomas Bramall
+2024-03-02,Nottingham Forest,Liverpool,0,1,L,29603.0,Paul Tierney
+2024-03-30,Nottingham Forest,Crystal Palace,1,1,D,29520.0,Chris Kavanagh
+2024-04-02,Nottingham Forest,Fulham,3,1,W,28997.0,Michael Oliver
+2024-04-13,Nottingham Forest,Wolverhampton Wanderers,2,2,D,29604.0,Craig Pawson
+2024-04-28,Nottingham Forest,Manchester City,0,2,L,29677.0,Simon Hooper
+2024-05-11,Nottingham Forest,Chelsea,2,3,L,29708.0,Tony Harrington
+2023-09-01,Luton Town,West Ham United,1,2,L,10802.0,Paul Tierney
+2023-09-23,Luton Town,Wolverhampton Wanderers,1,1,D,10893.0,Joshua Smith
+2023-10-03,Luton Town,Burnley,1,2,L,10918.0,Peter Bankes
+2023-10-07,Luton Town,Tottenham Hotspur,0,1,L,10290.0,John Brooks
+2023-11-05,Luton Town,Liverpool,1,1,D,11049.0,Andy Madley
+2023-11-25,Luton Town,Crystal Palace,2,1,W,11029.0,Jarred Gillett
+2023-12-05,Luton Town,Arsenal,3,4,L,11031.0,Samuel Barrott
+2023-12-10,Luton Town,Manchester City,1,2,L,11047.0,Tim Robinson
+2023-12-23,Luton Town,Newcastle United,1,0,W,11042.0,Darren England
+2023-12-30,Luton Town,Chelsea,2,3,L,11041.0,Paul Tierney
+2024-01-30,Luton Town,Brighton & Hove Albion,4,0,W,10994.0,Robert Jones
+2024-02-10,Luton Town,Sheffield United,1,3,L,11138.0,Chris Kavanagh
+2024-02-18,Luton Town,Manchester United,1,2,L,11483.0,David Coote
+2024-03-02,Luton Town,Aston Villa,2,3,L,11594.0,Michael Oliver
+2024-03-16,Luton Town,Nottingham Forest,1,1,D,11630.0,Darren England
+2024-04-06,Luton Town,AFC Bournemouth,2,1,W,11797.0,Andy Madley
+2024-04-20,Luton Town,Brentford,1,5,L,11877.0,Jarred Gillett
+2024-05-03,Luton Town,Everton,1,1,D,11873.0,Tim Robinson
+2024-05-19,Luton Town,Fulham,2,4,L,12027.0,Matt Donohue
+2023-08-11,Burnley,Manchester City,0,3,L,21572.0,Craig Pawson
+2023-08-27,Burnley,Aston Villa,1,3,L,21591.0,Michael Salisbury
+2023-09-02,Burnley,Tottenham Hotspur,2,5,L,21750.0,Darren England
+2023-09-23,Burnley,Manchester United,0,1,L,21593.0,Tony Harrington
+2023-10-07,Burnley,Chelsea,1,4,L,21654.0,Stuart Attwell
+2023-11-04,Burnley,Crystal Palace,0,2,L,21578.0,Peter Bankes
+2023-11-25,Burnley,West Ham United,1,2,L,21319.0,Samuel Barrott
+2023-12-02,Burnley,Sheffield United,5,0,W,21478.0,Chris Kavanagh
+2023-12-16,Burnley,Everton,0,2,L,21413.0,Anthony Taylor
+2023-12-26,Burnley,Liverpool,0,2,L,21624.0,Paul Tierney
+2024-01-12,Burnley,Luton Town,1,1,D,20155.0,Tony Harrington
+2024-02-03,Burnley,Fulham,2,2,D,20203.0,Darren Bond
+2024-02-17,Burnley,Arsenal,0,5,L,21311.0,Jarred Gillett
+2024-03-03,Burnley,AFC Bournemouth,0,2,L,19713.0,David Coote
+2024-03-16,Burnley,Brentford,2,1,W,20431.0,Darren Bond
+2024-04-02,Burnley,Wolverhampton Wanderers,1,1,D,21528.0,Thomas Bramall
+2024-04-13,Burnley,Brighton & Hove Albion,1,1,D,20687.0,Simon Hooper
+2024-05-04,Burnley,Newcastle United,1,4,L,21781.0,Anthony Taylor
+2024-05-19,Burnley,Nottingham Forest,1,2,L,21109.0,Graham Scott
+2023-08-12,Sheffield United,Crystal Palace,0,1,L,31194.0,John Brooks
+2023-08-27,Sheffield United,Manchester City,1,2,L,31336.0,Jarred Gillett
+2023-09-02,Sheffield United,Everton,2,2,D,31124.0,Andy Madley
+2023-09-24,Sheffield United,Newcastle United,0,8,L,31127.0,Stuart Attwell
+2023-10-21,Sheffield United,Manchester United,1,2,L,31543.0,Michael Oliver
+2023-11-04,Sheffield United,Wolverhampton Wanderers,2,1,W,29454.0,Robert Jones
+2023-11-25,Sheffield United,AFC Bournemouth,1,3,L,30208.0,Andy Madley
+2023-12-06,Sheffield United,Liverpool,0,2,L,31406.0,Simon Hooper
+2023-12-09,Sheffield United,Brentford,1,0,W,28509.0,Stuart Attwell
+2023-12-26,Sheffield United,Luton Town,2,3,L,31041.0,Samuel Allison
+2024-01-21,Sheffield United,West Ham United,2,2,D,29164.0,Michael Salisbury
+2024-02-03,Sheffield United,Aston Villa,0,5,L,30187.0,Paul Tierney
+2024-02-18,Sheffield United,Brighton & Hove Albion,0,5,L,29522.0,Stuart Attwell
+2024-03-04,Sheffield United,Arsenal,0,6,L,29157.0,Samuel Barrott
+2024-03-30,Sheffield United,Fulham,3,3,D,30010.0,Tim Robinson
+2024-04-07,Sheffield United,Chelsea,2,2,D,28638.0,Robert Jones
+2024-04-20,Sheffield United,Burnley,1,4,L,28964.0,Andy Madley
+2024-05-04,Sheffield United,Nottingham Forest,1,3,L,28516.0,Chris Kavanagh
+2024-05-19,Sheffield United,Tottenham Hotspur,0,3,L,29116.0,Andy Madley
