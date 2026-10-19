@@ -21,7 +21,7 @@ Raw data (local/S3) → Cleaned + merged (pandas) → Postgres → Analysis
 Python and pandas, requests, BeautifulSoup
 
 ## Status
-Day 7: CSV cleaned to one row per match (380 rows, canonical team names, no nulls). Next: join API matches and standings cross-check.
+Day 8: API cleaned to one row per match (380 rows). Cross-checked against CSV: 380 matched, 0 score differences.
 
 ## Progress log
 - Day 1: Initialized repo, folder structure, README, .gitignore.
@@ -38,3 +38,4 @@ Day 7: CSV cleaned to one row per match (380 rows, canonical team names, no null
 - Day 5: Designed unified schema in docs/schema.md — matches table (one row per match) and standings table (one row per team per season).
 - Day 6: Built scripts/clean/normalize_teams.py, mapping every team spelling from the API, scraped standings, and bulk CSV to one canonical name. Coverage check confirms 20/20 teams.
 - Day 7: Built scripts/clean/build_matches_csv.py. Filters the team-per-match CSV to home rows, normalizes team names with normalize_teams.py, selects and renames columns to the schema, and saves data/clean/matches_csv_clean.csv (380 rows, no nulls). Home/away stats such as xG and possession are deferred until a join step exists.
+- Day 8: Built scripts/clean/build_matches_api.py and scripts/clean/compare_sources.py. API and CSV agree on all 380 matches' scores after canonical team-name mapping.
